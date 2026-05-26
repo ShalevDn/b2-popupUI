@@ -13,5 +13,3 @@ and  add the line : ensure b2-popupUI
 
 Im not updating it anymorem, and cant offer support
 
-
-**## not to be sold or used in paid content!!**
